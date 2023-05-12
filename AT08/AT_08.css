@@ -1,0 +1,13 @@
+#div-container {
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    height: 100vh;
+    padding: 100px;
+}
+
+#div-botao {
+    margin: 20px;
+}
+

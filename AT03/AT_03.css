@@ -1,0 +1,13 @@
+#div-container {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 100px;
+    gap: 30px;
+}
+
+input {
+    margin: 2px;
+}

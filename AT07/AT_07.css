@@ -1,0 +1,20 @@
+#div-container {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 100px;
+}
+
+input {
+    margin: 2px;
+}
+
+#div-botao {
+    margin-top: 20px;
+}
+
+#div-msgSaida {
+    margin: 20px;
+}
